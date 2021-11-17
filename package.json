@@ -1,0 +1,29 @@
+{
+  "name": "multi_fruit_basket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "multiFruit.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/31ef0e74b44157b4e7849585f6072001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/31ef0e74b44157b4e7849585f6072001"
+  },
+  "homepage": "https://gist.github.com/31ef0e74b44157b4e7849585f6072001",
+  "dependencies": {
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}

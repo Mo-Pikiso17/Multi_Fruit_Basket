@@ -8,7 +8,7 @@ const Pool = pg.Pool;
 
 let useSSL = false;
 
-const connectionString = process.env.DATABASE_URL || 'postgresql://postgres:moddy123@localhost:5432/fruitbase';
+const connectionString = process.env.DATABASE_URL || 'postgresql://postgres:moddy123@localhost:5432/multibase';
 
 const pool = new Pool({
     connectionString,
